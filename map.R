@@ -47,3 +47,4 @@ gg1 <- ggplot(global) +
 ## gg1
 
 ggsave(gg1, filename = "amp-ad_updated_map_20190710.svg", width = 10, height = 8)
+ggsave(gg1, filename = "amp-ad_updated_map_20190710.png", width = 10, height = 8)
